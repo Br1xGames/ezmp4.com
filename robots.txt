@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://ezmp4.com/sitemap.xml
